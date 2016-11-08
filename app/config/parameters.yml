@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: firebase_chat
+    database_user: firebase_chat
+    database_password: fb_chat
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: a3a7f93ad119d858c18b380b0c555fcd917c7a13
